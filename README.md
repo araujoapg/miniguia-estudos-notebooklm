@@ -53,6 +53,7 @@ O mesmo mecanismo pode ser positivo ou negativo dependendo da situação.
 
 
 3.Conferir:
+
 Na terceira etapa, pedi ao NotebookLM para auditar a própria resposta.
 Foram verificados: Cálculos; Valores dos exemplos; Possíveis erros; Simplificações; Diferença entre informações das fontes e interpretações da IA.
 
@@ -62,6 +63,7 @@ Por isso, é importante conferir e questionar as informações.
 
 
 4.Testar:
+
 Por fim, pedi ao NotebookLM para criar um teste com 10 questões sobre o conteúdo estudado.
 O teste envolveu: Conceitos; Situações do cotidiano; Cálculos; Análise de decisões financeiras.
 Resultado do teste: 10/10
