@@ -23,7 +23,6 @@ OLITEF. Caderno do Estudante: Olimpíada do Tesouro Direto de Educação Finance
 Como utilizei o NotebookLM:
 
 O estudo foi dividido em quatro etapas:
-
 1. Entender → 2. Aplicar → 3. Conferir → 4. Testar
 
 1.Entender:
