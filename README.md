@@ -78,24 +78,24 @@ C = capital inicial;
 i = taxa de juros;
 n = número de períodos.
 
-Exemplo
+Exemplo:
 R$ 100 aplicados a 1% ao mês durante 6 meses:
 M = 100 × (1,01)⁶
 M = R$ 106,15
 Juros obtidos:
 R$ 106,15 − R$ 100 = R$ 6,15
 
-📈 Juros a favor
+Juros a favor:
 Nos investimentos, os juros podem ajudar o patrimônio a crescer. Quanto mais tempo o dinheiro permanece investido, maior pode ser o efeito dos juros compostos. Tempo + juros compostos = crescimento do patrimônio
 
-📉 Juros contra
+Juros contra:
 Nas dívidas, os juros podem fazer o valor devido crescer. 
 Exemplo: uma dívida de R$ 1.000 com juros de 5% ao mês.
 1º mês: R$ 1.050
 2º mês: R$ 1.102,50
 No segundo mês, os juros são calculados sobre R$ 1.050, e não sobre os R$ 1.000 iniciais.
 
-CET
+CET:
 
 CET = Custo Efetivo Total
 É uma forma de analisar o custo total de uma operação de crédito. Ao comparar um financiamento ou empréstimo, não devemos olhar apenas a taxa de juros ou o valor da parcela.
