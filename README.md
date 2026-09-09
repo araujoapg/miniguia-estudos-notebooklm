@@ -36,6 +36,7 @@ Juros compostos são os famosos "juros sobre juros".
 
 Os juros de cada período são adicionados ao valor acumulado e passam a gerar novos juros.
 
+
 2.Aplicar:
 
 Depois, pedi exemplos de como os juros compostos podem aparecer na vida financeira.
@@ -50,6 +51,7 @@ Principal aprendizado:
 
 O mesmo mecanismo pode ser positivo ou negativo dependendo da situação.
 
+
 3.Conferir:
 Na terceira etapa, pedi ao NotebookLM para auditar a própria resposta.
 Foram verificados: Cálculos; Valores dos exemplos; Possíveis erros; Simplificações; Diferença entre informações das fontes e interpretações da IA.
@@ -58,11 +60,13 @@ Principal aprendizado:
 Uma resposta bem escrita pela IA não significa necessariamente que ela esteja correta.
 Por isso, é importante conferir e questionar as informações.
 
+
 4.Testar:
 Por fim, pedi ao NotebookLM para criar um teste com 10 questões sobre o conteúdo estudado.
 O teste envolveu: Conceitos; Situações do cotidiano; Cálculos; Análise de decisões financeiras.
 Resultado do teste: 10/10
 O resultado mostrou que os principais conceitos estudados foram compreendidos.
+
 
 Miniguia de Estudos:
 Juros compostos:
